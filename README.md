@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charbel Estephan</h1>
 <h3 align="center">A Computer and Communication engineering student at NDU</h3>
-# 💫 About Me:
+#💫 About Me:
+
 🔭 I’m currently working on SUMO_BOT <br>🌱 I’m currently learning Frontend development <br>⚡ Fun fact I am a computer engineering student at NDU 
 
 
