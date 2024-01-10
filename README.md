@@ -2,7 +2,7 @@
 <h3 align="center">A Computer and Communication engineering student at NDU</h3>
 <h3>💫 About Me:</h3>
 
-🔭 I’m currently working on SUMO_BOT <br>🌱 I’m currently learning Frontend development <br>⚡ Fun fact I found my passion for coding at 11 years old
+🔭 I’m currently working on SUMO_BOT <br>🌱 I’m currently working on the compTIA A+ certification. <br>⚡ Fun fact I am a First year engineering student<br>
 
 
 ## 🌐 Socials:
